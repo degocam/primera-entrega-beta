@@ -50,5 +50,6 @@ let ingreso = prompt("¿Cuál película te gustaría ver:"+"\n"+"\n"+"1 Black Wi
             "2 El Conjuro: El Diablo Me Obligó a Hacerlo"+"\n"+"\n"+"3 The Suicide Squad"+"\n"+"\n"+
             "4 Venom: Habrá Matanza"+"\n"+"\n"+"5 Halloween Kills"+"\n"+"\n"+"Escribe el número de la película para saber los horarios");
 
+//Esta variable es la que ejecuta la función que le permite al usuario elegir una película
 let salida = mostrarPeli(ingreso);
 
